@@ -120,11 +120,6 @@ Developed a machine learning–based Fake News Detection system using Python and
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aakriti80043-create&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
-</div>
 
 ### 📈 Activity Graph
 
