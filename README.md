@@ -113,8 +113,7 @@ Developed a machine learning–based Fake News Detection system using Python and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aakriti80043-create&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakriti80043-create&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Top Languages" height="165"/>
+
 
 <img src="https://streak-stats.demolab.com?user=aakriti80043-create&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
 
