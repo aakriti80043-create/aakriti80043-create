@@ -74,12 +74,12 @@ Interactive Excel dashboard analyzing Vrinda Store sales data using Pivot Tables
 
 <br/>
 
-#### Fake-News-Detection-app
+#### Fake-News-Detection
 
 Developed a machine learning–based Fake News Detection system using Python and Logistic Regression to classify news articles with 95% accuracy through text preprocessing and feature engineering.
 
-<a href="https://github.com/aakriti80043-create/Fake-News-Detection-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=Fake-News-Detection-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Fake-News-Detection-app"/>
+<a href="https://github.com/aakriti80043-create/FakeNewsDetection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=FakeNewsDetection&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="FakeNewsDetection"/>
 </a>
 
 | Layer | Technology |
@@ -88,7 +88,7 @@ Developed a machine learning–based Fake News Detection system using Python and
 | Model | Logistic Regression |
 | Technique | Text Preprocessing & Feature Engineering |
 
-🔗 [Code](https://github.com/aakriti80043-create/Fake-News-Detection-app)
+🔗 [Code](https://github.com/aakriti80043-create/FakeNewsDetection)
 
 <br/>
 
