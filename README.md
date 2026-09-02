@@ -45,7 +45,6 @@ const aakriti = {
 Interactive Excel dashboard analyzing employee attrition (IBM HR dataset), uncovering key drivers like age, tenure, overtime & job role using Pivot Tables, slicers & GETPIVOTDATA.
 
 <a href="https://github.com/aakriti80043-create/IBM-HR-Attrition-and-Workforce-Analytics-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=IBM-HR-Attrition-and-Workforce-Analytics-Dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="IBM HR Attrition and Workforce Analytics Dashboard"/>
 </a>
 
 | Layer | Technology |
@@ -94,12 +93,11 @@ A SQL-driven analysis of quick-commerce inventory data, built to practice the pr
 
 <br/>
 
-#### Data Analysis Dashboard
+#### Retail Sales Analysis
 
 Interactive Excel dashboard analyzing Vrinda Store sales data using Pivot Tables, Pivot Charts, and Slicers to uncover sales trends, customer insights, regional performance, and business KPIs.
 
 <a href="https://github.com/aakriti80043-create/Data-Analysis-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=Data-Analysis-Dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Data Analysis Dashboard"/>
 </a>
 
 | Layer | Technology |
@@ -112,12 +110,11 @@ Interactive Excel dashboard analyzing Vrinda Store sales data using Pivot Tables
 
 <br/>
 
-#### Fake-News-Detection-app
+#### Fake-News-Detection
 
 Developed a machine learning–based Fake News Detection system using Python and Logistic Regression to classify news articles with 95% accuracy through text preprocessing and feature engineering.
 
 <a href="https://github.com/aakriti80043-create/Fake-News-Detection-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=Fake-News-Detection-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Fake-News-Detection-app"/>
 </a>
 
 | Layer | Technology |
@@ -158,11 +155,6 @@ Developed a machine learning–based Fake News Detection system using Python and
 
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aakriti80043-create&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
-</div>
 
 ### 📈 Activity Graph
 
@@ -188,20 +180,7 @@ Developed a machine learning–based Fake News Detection system using Python and
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
-<div align="center">
 
-<a href="https://linkedin.com/in/aakriti-sharma-37593a294">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:aakriti80043@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
 
 <!--
 **aakriti80043-create/aakriti80043-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
