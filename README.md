@@ -24,7 +24,9 @@ const aakriti = {
   title: "Aspiring Data Analyst | Computer Science Graduate",
   stack: ["Python", "SQL", "Excel", "Power BI"],
   launchedProjects: [
+    "IBM-HR-Attrition-and-Workforce-Analytics-Dashboard",
     "Global-Airbnb-Performance-Dashboard",
+    "ZEPTO_Data_Analysis_SQL",
     "Data-Analysis-Dashboard",
     "Fake-News-Detection-app",
   ],
@@ -37,6 +39,24 @@ const aakriti = {
 <br/>
 
 ### 🚀 Featured Projects
+
+#### IBM HR Attrition & Workforce Analytics Dashboard
+
+Interactive Excel dashboard analyzing employee attrition (IBM HR dataset), uncovering key drivers like age, tenure, overtime & job role using Pivot Tables, slicers & GETPIVOTDATA.
+
+<a href="https://github.com/aakriti80043-create/IBM-HR-Attrition-and-Workforce-Analytics-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=IBM-HR-Attrition-and-Workforce-Analytics-Dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="IBM HR Attrition and Workforce Analytics Dashboard"/>
+</a>
+
+| Layer | Technology |
+|---|---|
+| Tool | Excel |
+| Features | Pivot Tables, Slicers, GETPIVOTDATA |
+| Data | IBM HR Attrition Dataset |
+
+🔗 [Code](https://github.com/aakriti80043-create/IBM-HR-Attrition-and-Workforce-Analytics-Dashboard)
+
+<br/>
 
 #### Global Airbnb Performance Dashboard
 
@@ -53,6 +73,24 @@ Built an interactive Power BI dashboard analyzing Airbnb's global listings, rati
 | Data | Global Airbnb Listings & Reviews |
 
 🔗 [Code](https://github.com/aakriti80043-create/Global_Airbnb_Performance_Dashboard)
+
+<br/>
+
+#### ZEPTO Data Analysis (SQL)
+
+A SQL-driven analysis of quick-commerce inventory data, built to practice the pricing, discount, and stock-availability questions a retail/e-commerce data analyst answers on the job.
+
+<a href="https://github.com/aakriti80043-create/ZEPTO_Data_Analysis_SQL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=ZEPTO_Data_Analysis_SQL&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="ZEPTO Data Analysis SQL"/>
+</a>
+
+| Layer | Technology |
+|---|---|
+| Language | SQL |
+| Focus | Pricing, Discounts, Stock Availability |
+| Domain | Quick-Commerce Inventory |
+
+🔗 [Code](https://github.com/aakriti80043-create/ZEPTO_Data_Analysis_SQL)
 
 <br/>
 
@@ -74,12 +112,12 @@ Interactive Excel dashboard analyzing Vrinda Store sales data using Pivot Tables
 
 <br/>
 
-#### Fake-News-Detection
+#### Fake-News-Detection-app
 
 Developed a machine learning–based Fake News Detection system using Python and Logistic Regression to classify news articles with 95% accuracy through text preprocessing and feature engineering.
 
-<a href="https://github.com/aakriti80043-create/FakeNewsDetection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=FakeNewsDetection&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="FakeNewsDetection"/>
+<a href="https://github.com/aakriti80043-create/Fake-News-Detection-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakriti80043-create&repo=Fake-News-Detection-app&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Fake-News-Detection-app"/>
 </a>
 
 | Layer | Technology |
@@ -88,7 +126,7 @@ Developed a machine learning–based Fake News Detection system using Python and
 | Model | Logistic Regression |
 | Technique | Text Preprocessing & Feature Engineering |
 
-🔗 [Code](https://github.com/aakriti80043-create/FakeNewsDetection)
+🔗 [Code](https://github.com/aakriti80043-create/Fake-News-Detection-app)
 
 <br/>
 
@@ -113,12 +151,18 @@ Developed a machine learning–based Fake News Detection system using Python and
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=aakriti80043-create&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakriti80043-create&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=aakriti80043-create&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
 
 </div>
 
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=aakriti80043-create&no-frame=true&no-bg=true&margin-w=15" alt="Trophies"/>
+</div>
 
 ### 📈 Activity Graph
 
@@ -130,6 +174,20 @@ Developed a machine learning–based Fake News Detection system using Python and
 
 ### 🤝 Connect With Me
 
+<div align="center">
+
+<a href="https://linkedin.com/in/aakriti-sharma-37593a294">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:aakriti80043@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
 <div align="center">
 
 <a href="https://linkedin.com/in/aakriti-sharma-37593a294">
