@@ -156,14 +156,6 @@ Developed a machine learning–based Fake News Detection system using Python and
 </div>
 
 
-### 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aakriti80043-create&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Activity Graph"/>
-</div>
-
-<br/>
-
 ### 🤝 Connect With Me
 
 <div align="center">
